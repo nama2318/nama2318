@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**nama2318/nama2318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Namrata Jamdar, a Computer Science and Engineering student at DKTE’s Textile and Engineering Institute.
 
-Here are some ideas to get you started:
+🎓 Currently pursuing my B.Tech in Computer Science and Engineering, with a background in Computer Science and Engineering Diploma from Government Polytechnic, Miraj.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Proficient in C, C++, Java, and various technologies including Cloud Computing, HTML, CSS, and Database Management.
+
+🌟 Passionate about problem-solving, software development, and exploring new technologies.
+
+🏆 Recognized for my strong analytical skills, quick learning ability, and dedication to continuous improvement.
+
+📚 Actively enhancing my skills through online courses and hands-on projects.
+
+💬 Let's connect and collaborate on exciting tech projects! 
+
+Happy Coding! 💻✨
