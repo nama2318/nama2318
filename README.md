@@ -3,7 +3,7 @@
 
 🎓 Currently pursuing my B.Tech in Computer Science and Engineering, with a background in Computer Science and Engineering Diploma from Government Polytechnic, Miraj.
 
-💻 Proficient in C, C++, Java, and various technologies including Cloud Computing, HTML, CSS, and Database Management.
+💻 Proficient in C, C++, Java, and various technologies including Rest API, HTML, CSS, and Database Management.
 
 🌟 Passionate about problem-solving, software development, and exploring new technologies.
 
